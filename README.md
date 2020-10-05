@@ -1,4 +1,4 @@
-    ### give input into input fiels that will automaticlt changed :
+   ### give input into input fiels that will automaticlt changed :
 
     <!DOCTYPE html>
     <html lang="en">
